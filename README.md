@@ -1,4 +1,4 @@
-These uploaded files are the data used in article “3-D inversion of magnetotelluric data using blockwise-continuous model parameterization on unstructured tetrahedral meshes”.
+These uploaded files contain the data and models used in article “3-D inversion of magnetotelluric data using blockwise-continuous model parameterization on unstructured tetrahedral meshes”.
 
 The *.poly files are the synthetic model files used for discretization by Tetgen. *.ele, *.face, *.neigh, and *.node files are the mesh files used for forward modelling and inversion.
 *.data files are the input synthetic or field data files, *.vtk files are the resistivity reults files at the last iteration, *.dat files are the predicted data files.
